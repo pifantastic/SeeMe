@@ -1,0 +1,4 @@
+CFBundleName = "SeeMe";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "SeeMe version 1.0 Copyright 2011 Aaron Forsander";
+NSHumanReadableCopyright = "Copyright 2011 Aaron Forsander.";
